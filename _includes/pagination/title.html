@@ -1,0 +1,10 @@
+{% assign first_post_number = paginator.per_page | times: paginator.previous_page | plus: 1 %}
+{% assign last_post_number_maximum = paginator.per_page | times: paginator.page %}
+
+{% if paginator.total_posts < last_post_number_maximum %}
+  {% assign last_post_number = paginator.total_posts %}
+{% else %}
+  {% assign last_post_number = last_post_number_maximum %}
+{% endif %}
+
+{% assign pagination_title = 'Entries ' | append: first_post_number | append: '-' | append: last_post_number | append: ' of ' | append: paginator.total_posts' %}

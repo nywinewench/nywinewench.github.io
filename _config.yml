@@ -1,0 +1,11 @@
+# it's-a-me!
+name: Stellenbauchery
+
+# included modules
+markdown: redcarpet
+pygments: false
+
+# blog configuration
+permalink: /blog/:month-:day-:year/:title.html
+paginate: 5
+paginate_path: 'blog/page:num'

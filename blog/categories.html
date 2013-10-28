@@ -1,0 +1,37 @@
+---
+layout: empty
+title: Entries by Category
+---
+
+<div class='large_column'>
+  <h1 class='title'>Entries by Category</h1>
+
+  {% for category_obj in site.categories %}
+    {% assign category = category_obj[0] %}
+    {% assign category_id = category | normalize %}
+    <h3 class='capitalize bottom_border' id='{{ category_id }}'>{{ category }}</h3>
+
+    <table>
+      <tbody>
+        {% for entry in site.categories[category] %}
+          <tr>
+            <th class='smaller plain'>{{ entry.date | display_date }}</th>
+            <td><a class='no_border' href='{{ entry.url }}'>{{ entry.title }}</a></td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endfor %}
+
+</div>
+
+<div class='small_column'>
+  <h3 class='title'>Categories</h3>
+  <ul class='plain small bold no_bullets'>
+    {% for category_obj in site.categories %}
+      {% assign category = category_obj[0] %}
+      {% assign category_id = category | normalize %}
+      <li><a class='no_border capitalize' href='#{{ category_id }}'>{{ category }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

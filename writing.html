@@ -1,0 +1,51 @@
+---
+layout: empty
+title: Selected Works
+---
+
+<article class='container'>
+  <div class='large_column'>
+    <h1 class='title'>Selected Works</h1>
+
+    {% for w in site.writings %}
+      <div class='top_border'>
+
+        <h3>
+          {% if w.article.link %}
+            <a class='no_border' href='{{ w.article.link }}'>{{ w.article.title }}</a>
+          {% else %}
+            {{ w.article.title }}
+          {% endif %}
+        </h3>
+
+        <h5>In <i>
+          {% if w.publication.link %}
+            <a href='{{ w.publication.link }}'>{{ w.publication.name }}</a>
+          {% else %}
+            {{ w.publication.title }}
+          {% endif %}
+        </i> on {{ w.date | display_date }}</h5>
+
+        {% if w.article.link %}
+          {{ w.content | remove_first: '</p>' | append: ' <a href="' | append: w.article.link | append: '">Read the full article.</a></p>' }}
+        {% else %}
+          {{ w.content }}
+        {% endif %}
+
+      </div><!--top-border-->
+    {% endfor %}
+
+  </div><!--large_column-->
+
+  <div class='small_column'>
+    <p class='title italics'>I have been writing for publication since 2002. My work has
+    since been featured in <a href='http://progressive.org' target='_blank'><i>The Progressive</i></a>;
+    <a href='http://www.isthmus.com' target='_blank'><i>Isthmus</i></a>, the alternative weekly
+    newspaper of Madison, WI; <a href='http://www.buffalospree.com' target='_blank'><i>Buffalo Spree</i></a>
+    (Western New York's regional magazine); <a href='http://skepchick.org' target='_blank'>Skepchick.org</a>;
+    <i>The American Rationalist</i>; and
+    <a href='http://www.brewingnews.com/greatlakes'><i>Great Lakes Brewing News</i></a>.
+    Here are samples of the types of projects I enjoy.</p>
+  </div><!--small_column-->
+</article>
+

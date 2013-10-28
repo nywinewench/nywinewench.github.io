@@ -1,0 +1,12 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<nav class='right'>
+  <ul class='inline_list'>
+    <li><a href='/about.html' {% if current[1] == 'about.html' %}class='current'{% endif %}>About</a></li>
+    <li><a href='/blog' {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a></li>
+    <li><a href='/writing.html' {% if current[1] == 'writing.html' %}class='current'{% endif %}>Writing</a></li>
+    <li><a href='/resume.html' {% if current[1] == 'resume.html' %}class='current'{% endif %}>Résumé</a></li>
+    <li><a href='/contact.html' {% if current[1] == 'contact.html' %}class='current'{% endif %}>Contact</a></li>
+    <!--<li><a class='rss' href='/feed.xml' target='_blank'>RSS</a></li>-->
+  </ul>
+</nav>

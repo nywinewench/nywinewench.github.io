@@ -1,0 +1,37 @@
+---
+layout: empty
+title: Entries by Tag
+---
+
+<div class='large_column'>
+  <h1 class='title'>Entries by Tag</h1>
+
+  {% for tag_obj in site.tags %}
+    {% assign tag = tag_obj[0] %}
+    {% assign tag_id = tag | normalize %}
+    <h3 class='capitalize bottom_border' id='{{ tag_id }}'>{{ tag }}</h3>
+
+    <table>
+      <tbody>
+        {% for entry in site.tags[tag] %}
+          <tr>
+            <th class='smaller plain'>{{ entry.date | display_date }}</th>
+            <td><a class='no_border' href='{{ entry.url }}'>{{ entry.title }}</a></td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endfor %}
+
+</div>
+
+<div class='small_column'>
+  <h3 class='title'>Tags</h3>
+  <ul class='pills'>
+    {% for tag_obj in site.tags %}
+      {% assign tag = tag_obj[0] %}
+      {% assign tag_id = tag | normalize %}
+      <li><a class='no_border capitalize' href='#{{ tag_id }}'>{{ tag }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

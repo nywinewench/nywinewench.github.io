@@ -1,0 +1,14 @@
+# Pre-launch
+
+- feed.xml
+
+# Post-launch
+
+- RSS feed
+- DISQUS comments
+- share buttons (Facebook, Twitter, Pinterest)
+- *writing samples generator (will this work on Github pages?)
+- **prettier list styles
+
+*NOTE: be sure to remove the _site/ from .gitignore or you will have problems
+**NOTE: see http://stackoverflow.com/questions/862878/make-abc-ordered-list-items-have-bold-style

@@ -1,0 +1,61 @@
+---
+layout: none
+---
+
+{% include pagination/title.html %}
+{% include header.html custom_title=pagination_title %}
+
+  <div class='large_column'>
+    <div class='container bottom_border'>
+      <h3 class='left title'>{{ pagination_title }}</h3>
+
+      <h3 class='right title'>
+        {% if paginator.previous_page %}<a href='{{ paginator.previous_page_path }}'>&#8592; Previous Entries</a>{% endif %}
+        {% if paginator.previous_page and paginator.next_page %} | {% endif %}
+        {% if paginator.next_page %}<a href='{{ paginator.next_page_path }}'>Next Entries &#8594;</a>{% endif %}
+      </h3>
+    </div><!--pagination_top-->
+
+    {% for entry in paginator.posts %}
+      <article class='bottom_border'>
+
+        <h1><a href='{{ entry.url }}'>{{ entry.title }}</a></h1>
+        <h5>{% include entry/timestamp.html %}</h5>
+        {{ entry.excerpt | remove_first: '</p>' | append: ' <a href="' | append: entry.url | append: '">Read the full article.</a></p>' }}
+        {% include entry/tags.html entry=entry %}
+
+      </article>
+    {% endfor %}
+
+    <div class='container'>
+      <h3 class='left'>{{ pagination_title }}</h3>
+
+      <h3 class='right'>
+        {% if paginator.previous_page %}<a href='{{ paginator.previous_page_path }}'>&#8592; Previous Entries</a>{% endif %}
+        {% if paginator.previous_page and paginator.next_page %} | {% endif %}
+        {% if paginator.next_page %}<a href='{{ paginator.next_page_path }}'>Next Entries &#8594;</a>{% endif %}
+      </h3>
+    </div><!--pagination_bottom-->
+  </div><!--large_column-->
+
+  <div class='small_column'>
+    <h3 class='title'>By <a href='/blog/categories.html'>Categories</a></h3>
+    <ul class='plain small bold no_bullets'>
+      {% for category_obj in site.categories limit:10 %}
+        {% assign category = category_obj[0] %}
+        {% assign category_id = category | normalize %}
+        <li><a class='no_border capitalize' href='/blog/categories.html#{{ category_id }}'>{{ category }}</a></li>
+      {% endfor %}
+    </ul>
+
+    <h3>By <a href='/blog/tags.html'>Tags</a></h3>
+    <ul class='pills'>
+      {% for tag_obj in site.tags limit:10 %}
+        {% assign tag = tag_obj[0] %}
+        {% assign tag_id = tag | normalize %}
+        <li><a href='/blog/tags.html#{{ tag_id }}'>{{ tag }}</a></li>
+      {% endfor %}
+    </ul
+  </div><!--small_column-->
+
+{% include footer.html %}

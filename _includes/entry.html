@@ -1,0 +1,34 @@
+{% if include.entry %}
+  {% assign entry = include.entry %}
+  {% assign entry_content = entry.content %}
+{% else %}
+  {% assign entry = page %}
+  {% assign entry_content = content %}
+{% endif %}
+
+<article class='container'>
+  <hgroup class='container'>
+    <div class='large_column'>
+      <h1 class='title'>
+        <a href='{{ entry.url }}'>{{ entry.title }}</a>
+      </h1>
+
+      {% if entry.subtitle %}
+        <h3>{{ entry.subtitle }}</h3>
+      {% endif %}
+    </div><!--large_column-->
+
+    <div class='small_column'>
+      <p class='title italics'>
+        {% include entry/timestamp.html multiline=true %}
+      </p>
+    </div><!--small_column-->
+  </hgroup>
+
+  <div class='large_column bottom_border'>
+    {{ entry_content }}
+    {% include entry/tags.html %}
+  </div><!--large_column-->
+
+  {% include entry/footer.html %}
+</article>
