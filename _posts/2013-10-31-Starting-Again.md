@@ -27,6 +27,6 @@ A few nights later, I was cleaning my clippers and packing a peanut-butter-and-h
 
 ![mitchellsign](/photos/mitchell_sign.jpg "Mitchell Vineyards sign in front of vineyard")
 
-Mitchell Vineyard is the gorgeous, six-acre property of Dave Mitchell, who planted the first vines in 1976. "I swear, he knows every single vine. He talks to them," Mary, his awesome wife, told me once with a smile. Dave is the kind of vineyard owner who sends his team beauty shots of individual vines at 10 pm on a weeknight long after harvest is over. In other words, he's my kind of person.
+Mitchell Vineyard is the gorgeous, six-acre property of Dave Mitchell, who planted the first vines in 1976. "I swear, he knows every single vine. He talks to them," Mary, his awesome partner, told me once with a smile. Dave is the kind of vineyard owner who sends his team beauty shots of individual vines at 10 pm on a weeknight long after harvest is over. In other words, he's my kind of person.
 
 After ten minutes in the vineyard I never wanted to leave. I asked Dave the next day if he needed help for the rest of harvest, and before I knew it, I was a Mitchell Vineyard employee. And the next phase of my wine life had begun.
