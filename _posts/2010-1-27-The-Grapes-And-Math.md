@@ -1,5 +1,5 @@
 ---
-title: The Grapes and Math: Pre-Harvest Vineyard Fun
+title: "The Grapes and Math"
 layout: entry
 category: Winemaking
 
