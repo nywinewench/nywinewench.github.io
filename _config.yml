@@ -1,5 +1,7 @@
 # it's-a-me!
-name: Stellenbauchery by Julia Burke
+name: "Stellenbauchery by Julia Burke"
+description: "The South African wine blog and freelance writing site of Julia Burke."
+domain: "stellenbauchery.com"
 
 # included modules
 markdown: redcarpet
