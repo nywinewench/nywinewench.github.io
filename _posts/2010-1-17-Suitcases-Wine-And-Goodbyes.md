@@ -30,7 +30,5 @@ Which brings me to goodbyes.
 
 In short, I don’t handle ’em well, so instead of drawn-out, tearful drama sessions I’m in favor of quick, fierce hugs followed by self medication at home in the form of Bob (Dylan or Seger)-heavy mixes and wine. And indeed, now that I’m home, Dylan is on the box and I’m knee deep in a bottle given to me by a dear friend: Altos de Luzon 2005, a blend of 50% monastrell, 25% cab sauv, and 25% tempranillo. I’m not in the mood for excessive tasting notes at the moment – let’s just say it’s dusty, sexy, lusty and exactly what I need as a wine to mull over while I finish packing and preparing for this new adventure.
 
-![altos](/photos/altos.jpg "Bottle of Altos de Luzon 2005") 
-
  My next post will be from Africa – until then, pray for my ability to survive limited airline beer/wine/culinary choices. Cheers!
 
