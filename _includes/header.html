@@ -1,12 +1,11 @@
+{% capture page_title %}{% if include.custom_title %}{{ include.custom_title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
+{% capture page_description %}{% if include.custom_description %}{{ include.custom_description }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+
 <!DOCTYPE html>
 <html>
 
-  {% capture page_title_prefix %}{% if include.custom_title %}{{ include.custom_title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
-  {% capture page_title %}{{ page_title_prefix }} | {{ site.name }}{% endcapture %}
-  {% capture page_description %}{% if include.custom_description %}{{ include.custom_description }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
-
   <head>
-    <title>{{ page_title }}</title>
+    <title>{{ page_title }} | {{ site.name }}</title>
 
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
@@ -18,13 +17,11 @@
     <link rel='stylesheet' type='text/css' href='/stylesheets/screen.css'>
     <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Ruthie'>
 
-    <meta property='og:title' content="{{ page_title | double_to_single_quotes }}">
+    <meta property='og:title' content="{{ page_title }}">
     <meta property='og:site_name' content="{{ site.name }}">
     <meta property='og:url' content="http://{{ site.domain }}{{ page.url }}">
     <meta property='og:description' content="{{ page_description | double_to_single_quotes }}">
     <meta property='og:type' content="blog">
-
-    {{ page.content | og_image_tags }}
   </head>
 
   <body lang='en'>
