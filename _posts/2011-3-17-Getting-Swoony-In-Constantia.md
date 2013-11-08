@@ -16,6 +16,7 @@ tags:
   - beer
 
 tweet: "I can’t come to South Africa and not spend time in Constantia, which is home to some of my favorite wine farms."
+---
 
 I can’t come to South Africa and not spend time in Constantia, which is home to some of my favorite wine farms. Luckily Kara was willing to take a break from her hectic weekend to bring me to two of the best, [Klein Constantia](http://www.kleinconstantia.com/) and [Buitenverwachting](http://www.buitenverwachting.com/).
 
