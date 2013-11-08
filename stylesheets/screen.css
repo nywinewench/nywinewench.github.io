@@ -172,6 +172,7 @@ article .large_column img {
   margin: 0 1em 1em -200px;
   max-width: 800px;
   float: left;
+  clear: left;
 }
 
 article hgroup {
@@ -210,6 +211,7 @@ article hgroup {
 
 .pills {
   padding-left: 1em;
+  clear: left;
 }
 
 .pills a {
