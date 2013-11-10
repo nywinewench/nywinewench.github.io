@@ -19,7 +19,7 @@ wine:
   name: Perdeblokke Sauvignon Blanc
 ---
 
-One of my favorite memories from my 2011 trip to South Africa was [my visit with Adam Mason at Klein Constantia](http://stellenbauchery.com/blog/03-17-2011/Getting-Swoony-In-Constantia.html). Mason makes stunning wines, and I particularly enjoyed the last vintage of Perdeblokke that I tried, which I believe was the 2009. Contantia is my absolute favorite region for sauvignon blanc in the world-–with apologies to New Zealand and the Loire, of course. 
+One of my favorite memories from my 2011 trip to South Africa was [my visit with then-winemaker Adam Mason at Klein Constantia](http://stellenbauchery.com/blog/03-17-2011/Getting-Swoony-In-Constantia.html). Mason makes stunning wines, and I particularly enjoyed the last vintage of Perdeblokke that I tried, which I believe was the 2009. Contantia is my absolute favorite region for sauvignon blanc in the world-–with apologies to New Zealand and the Loire, of course. 
 
 ![Klein Constantia Perdeblokke](/photos/kcperdeblokke.jpg "Klein Constantia Perdeblokke 2011 sauvignon blanc with LaClare Farm Evalon cheese")
 
