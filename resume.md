@@ -10,7 +10,7 @@ title: Résumé
 ##### October 2002–Present
 
 * First place award from the North American Mature Publishers Association for my 2012 article _Love over 50: Changing Attitudes, New Joys_
-* Contributing author to the travel guidebook _South Africa, Lesotho & Swaziland (Modern Overland, 2011)_
+* Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html)
 
 ### Assistant/Associate Editor, _Buffalo Spree Magazine_ and _Forever Young Magazine_
 
