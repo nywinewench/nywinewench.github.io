@@ -1,5 +1,5 @@
 ---
-title: Nelson Mandela
+title: Goodbye, Nelson Mandela
 
 layout: entry
 
