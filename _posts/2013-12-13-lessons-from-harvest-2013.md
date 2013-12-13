@@ -3,7 +3,7 @@ title: Lessons from my first harvest in Wisconsin
 
 layout: entry
 
-category: "Home winemaking"
+category: Winemaking
 
 tags:
   - "Wisconsin wine"
