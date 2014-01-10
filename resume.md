@@ -9,7 +9,7 @@ title: Résumé
 
 ##### October 2002–Present
 
-* First place award from the North American Mature Publishers Association for my 2012 article _Love over 50: Changing Attitudes, New Joys_
+* First place award from the North American Mature Publishers Association for my 2012 _Forever Young_ article _Love over 50: Changing Attitudes, New Joys_
 * Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html)
 
 ### Assistant/Associate Editor, _Buffalo Spree Magazine_ and _Forever Young Magazine_
@@ -56,3 +56,4 @@ title: Résumé
 * Proficiency in publication layout and design via Adobe InDesign
 * Experience in web publishing using standards-compliant markup including HTML5 and Markdown
 * Experience writing in multitudinous formats, including long- and short-form articles and promotional copy
+* Wine-specific skills include sales, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks, from 2009 to the present
