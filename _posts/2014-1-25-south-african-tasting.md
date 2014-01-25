@@ -21,7 +21,7 @@ tweet: "It was only a matter of time before I exposed my fantastic new wine tast
 
 ---
 
-It was only a matter of time before I exposed my fantastic new wine tasting group to my South African wine obsession. When I got the chance to pick the theme for a recent get-together, I was both excited to get the chance to share some great locally available South African wines and curious as to what sort of variety we'd find on Madison shelves.
+It was only a matter of time before I exposed my fantastic new wine-loving friends to my South African wine obsession. When I got the chance to pick the theme for a recent get-together, I was both excited to get the chance to share some great locally available South African wines and curious as to what sort of variety we'd find on Madison shelves.
 
 ![Wasted tasting](/photos/wasted.jpg "Wine being poured at tasting with cheese and snacks")
 ![Indaba chenin blanc](/photos/indabachenin.jpg "Indaba chenin blanc label")
