@@ -10,5 +10,5 @@ I taste all wines with a variety of foods, companions, and entertainment accompa
 I am available for freelance writing projects; see my [selected works](/writing.html)
 for a range of subjects. I also do wine classes for groups, businesses, and events.
 
-* **Twitter**: [@juliabwrites](https://twitter.com/juliabwrites)
+* **Twitter**: [@juliabwrites](https://twitter.com/juliabwrites) and [@stellenbauchery](https://twitter.com/stellenbauchery)
 * **Email**: <script type='text/javascript' src='/javascripts/email.js'></script>
