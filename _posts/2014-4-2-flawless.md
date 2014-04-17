@@ -20,7 +20,7 @@ wine:
   name: Chenin Blanc
 ---
 
-I've made no secret of my affection for Beyoncé's new album, a remarkable ode to love, marriage, sexuality, parenthood, feminism, and taxi cabs that plays on themes of sex and power, with Beyoncé's trademark combination of vulnerability and bravado never more honest or captivating. My friend Lauren and I recently enjoyed the visual album over a bottle* of chenin from a producer I don't see much here in the US. 
+I've made no secret of my affection for Beyoncé's new album, a remarkable ode to love, marriage, sexuality, parenthood, feminism, and car partitions that plays on themes of sex and power, with Beyoncé's trademark combination of vulnerability and bravado never more honest or captivating. My friend Lauren and I recently enjoyed the visual album over a bottle* of chenin from a producer I don't see much here in the US. 
 
 ![DeMorgenzon 2012 chenin](/photos/dmzchenin.jpg "DeMorgenzon chenin blanc label")
 
