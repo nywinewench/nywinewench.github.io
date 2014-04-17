@@ -375,3 +375,17 @@ footer nav li {
 footer nav a.current {
   font-weight: bold;
 }
+
+
+
+
+/* social media buttons */
+
+.social_buttons {
+  padding-bottom: 10px;
+}
+
+.fb-share-button {
+  position: relative;
+  top: -7px;
+}
