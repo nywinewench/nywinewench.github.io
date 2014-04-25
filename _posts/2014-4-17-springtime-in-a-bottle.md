@@ -22,7 +22,7 @@ Sometimes it feels like rosé season has to happen one day at a time: spring see
 
 ![DeMorgenzon DMZ Cabernet Rosé 2013 with cheese](/photos/dmzrose.jpg "DMZ rosé bottle with cheeses")
 
-I celebrated the beginning of the 2014 growing season with my vineyard boss and his family with a bottle* of [DeMorgenzon](http://www.demorgenzon.co.za/)'s cabernet sauvignon rosé a few weeks ago. South African rosé, heartier and richer than most of the world's rosés, is fun to pair with Wisconsin cheese, so I picked up a fenugreek gouda (pictured in the center) that looked tasty along with a few milder options. 
+I celebrated the beginning of the 2014 growing season with my vineyard boss and his family with a bottle* of [DeMorgenzon](http://www.demorgenzon.co.za/)'s cabernet sauvignon rosé a few weeks ago. [South African rosé](http://stellenbauchery.com/blog/02-20-2010/just-dont-call-it-blush.html), heartier and richer than most of the world's rosés, is fun to pair with Wisconsin cheese, so I picked up a fenugreek gouda (pictured in the center) that looked tasty along with a few milder options. 
 
 This wine has an herbal, wheat character at first sniff, like the first smell of new grass in the yard at the end of a long winter. Florals arrive as it warms up (I start my rosés slightly chilled and then enjoy the opening-up process as they warm to room temperature), with rosewater and a flower Dave and I couldn't name. Mary said, "Chrysanthemum petals!" And she was right.
 
