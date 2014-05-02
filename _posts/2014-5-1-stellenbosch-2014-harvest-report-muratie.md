@@ -18,7 +18,7 @@ tweet: "Muratie's harvest began the second week of January and ended just 2 and 
 
 ---
 
-Now that South Africa's 2014 harvest is over and the new wines are aging away in their barrels and tanks, I asked friends from a couple of my favorite wineries to report on the vintage. [Muratie](http://www.muratie.co.za/) is a tremendous farm in the Simonsberg region of Stellenbosch that I had the pleasure of visiting in both 2010 and 2011. Director Rijk Melck, who was kind enough to show me around me on my second visit, took some time to chat with me about vintage 2014.
+Now that South Africa's 2014 harvest is over and the new wines are aging away in their barrels and tanks, I asked friends from a couple of my favorite wineries to report on the vintage. [Muratie](http://www.muratie.co.za/) is a tremendous farm in the Simonsberg region of Stellenbosch that I had [the pleasure of visiting](http://stellenbauchery.com/blog/03-05-2011/starting-off-with-a-bang.html) in both 2010 and 2011. Director Rijk Melck, who was kind enough to show me around me on my second visit, took some time to chat with me about vintage 2014.
 
 ![Muratie harvest shot](/photos/muratieharvest.jpg "Wine coming from tank at Muratie; image courtesy of Muratie")
 
