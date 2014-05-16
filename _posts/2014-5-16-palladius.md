@@ -32,4 +32,4 @@ The richness is relentless, the acidity unremitting, with a husky, earthy-straw 
 
 I had chilled the wine only slightly and it reaches its peak at about room temperature. The acidity is searing against the mineral character and lush fruit, like clover honey dripping from the edges of an arrowhead. The finish is commanding, seductive, lasting a good several minutes. 
 
-I found Jacqueline Taieb's "7 Heures Du Mat" to be a most excellent music pairing. 
+I found Jacqueline Taieb's "7 Heures Du Matin" to be a most excellent music pairing. 
