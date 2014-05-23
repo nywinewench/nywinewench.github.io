@@ -24,7 +24,7 @@ On the plus side, I haven't needed to go to the gym as often; I get a pretty dar
 
 (Want to give it a try? You'll need a vineyard, a rake, about 16 acres, and a shovel.) 
 
-The vine buds broke earlier this month, and now the vineyard is resplendent with pretty, leafy buds. The last couple weeks we've been desuckering them––knocking buds off the parts of the vine that don't need them, like the base and anything that isn't a cane. We don't want the vine to waste resources on anything but the buds that we specifically want to bear fruit. The suckers come off easily––just a flick of your fingernail or a boot will do the trick––but there are a lot of them, so it takes awhile.
+The vine buds broke around May 14, and now the vineyard is resplendent with pretty, leafy buds. The last couple weeks we've been desuckering them––knocking buds off the parts of the vine that don't need them, like the base and anything that isn't a cane. We don't want the vine to waste resources on anything but the buds that we specifically want to bear fruit. The suckers come off easily––just a flick of your fingernail or a boot will do the trick––but there are a lot of them, so it takes awhile.
 
 We've also been planting more new vines, including marechal foch (pictured), and taking out some existing ones. Finally, there are repairs––fixing wires, replacing the clips on the posts that keep them in place, etc. As the vines grow, it's becoming easier to see what canes will be viable, so we can also prune back anything dead. It's a lot of work, and we might do five or six different tasks in one day. 
 
