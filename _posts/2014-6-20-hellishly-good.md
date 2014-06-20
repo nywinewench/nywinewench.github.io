@@ -19,9 +19,11 @@ wine:
   name: Cabernet Sauvignon
 ---
 
+I'd never tried any of Bartinney's wines before, but I've seen its name pop up regularly in South African wine news. 
+
 ![Bartinney Cabernet Sauvignon 2010](/photos/bartinneycab.jpg "Bartinney cabernet sauvignon")
 
-I'd never tried any of Bartinney's wines before, but I've seen its name pop up regularly in South African wine news. The farm has received [positive press](http://www.bloomberg.com/news/2012-01-30/banker-turned-wine-farmer-hits-south-african-vintage-jackpot-interview.html) for both its out-of-the-gate chardonnay and its environmental efforts since husband-and-wife team Michael and Rose Jordaan purchased the land on Helshoogte ("Hell's Heights") Pass in Stellenbosch in 2006, and began releasing estate wines with the 2009 vintage. The good press now includes four Platter stars for this cab made by winemaker Ronell Wild, a former geologist who has previously worked at Hazendal and Boschendal estates.   
+The farm has received [positive press](http://www.bloomberg.com/news/2012-01-30/banker-turned-wine-farmer-hits-south-african-vintage-jackpot-interview.html) for both its out-of-the-gate chardonnay and its environmental efforts since husband-and-wife team Michael and Rose Jordaan purchased the land on Helshoogte ("Hell's Heights") Pass in Stellenbosch in 2006, and began releasing estate wines with the 2009 vintage. The good press now includes four Platter stars for this cab made by winemaker Ronell Wild, a former geologist who has previously worked at Hazendal and Boschendal estates.   
 
 The fruit for this wine is picked from eight separate blocks on red, decomposed granite soils. Each is vinified separately, with a one-month extended maceration, then aged 18 months in 30 percent new and 70 percent second-fill oak. 
 
