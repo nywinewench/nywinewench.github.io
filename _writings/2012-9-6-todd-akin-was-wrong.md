@@ -4,7 +4,7 @@ article:
   link: http://skepchick.org/2012/09/guest-post-julia-burke-akin-was-wrong-but-why-on-rapists-myths-and-mechanisms/
 
 publication:
-  name: SkepChick
+  name: Skepchick
   link: skepchick.org
 ---
 
