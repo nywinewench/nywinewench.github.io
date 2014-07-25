@@ -1,7 +1,7 @@
 ---
 title: "That Perfect Wine"
 
-subtitle: An Interview with Ronell Wild
+subtitle: An Interview with Ronell Wiid
 
 layout: entry
 
@@ -9,7 +9,7 @@ category: South African Wine
 
 tags:
   - Bartinney
-  - Ronell Wild
+  - Ronell Wiid
   - chardonnay
   - cabernet sauvignon
 
@@ -17,9 +17,9 @@ tweet: "One should stop making wine if one doesn’t have the strive for 'that p
 
 ---
 
-I recently tried [my first Bartinney wine](http://stellenbauchery.com/blog/06-20-2014/hellishly-good.html) and was interested to learn that Bartinney's winemaker, Ronell Wild, came to viniculture from a career in geology. I love her winemaking style and asked her to tell her story.
+I recently tried [my first Bartinney wine](http://stellenbauchery.com/blog/06-20-2014/hellishly-good.html) and was interested to learn that Bartinney's winemaker, Ronell Wiid, came to viniculture from a career in geology. I love her winemaking style and asked her to tell her story.
 
-![Ronell Wild](/photos/ronellwild.jpg "Winemaker Ronell Wild; image courtesy of Cape Classics")
+![Ronell Wiid](/photos/ronellwild.jpg "Winemaker Ronell Wiid; image courtesy of Cape Classics")
 ![Bartinney Vineyards](/photos/bartinney.jpg "Vineyard Row at Bartinney; image courtesy of Cape Classics")
  
 **I read that you were originally a geologist. What brought you into winemaking?**
