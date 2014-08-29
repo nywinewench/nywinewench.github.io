@@ -15,7 +15,7 @@ tags:
   - Mitchell Vineyard
   - 2014 Harvest
 
-tweet: "This is the message that will be tweeted or shared on facebook. It should be enclosed in quotation marks for safety."
+tweet: "I now find myself writing with a bottle of cava, which I can't resist after a day at the chocolate shop."
 
 wine:
   winery: Juvé y Camps
