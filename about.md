@@ -4,7 +4,7 @@ title: About Julia Burke
 ---
 
 I am a writer with a special interest in social justice. I also happen to
-love wine, beer, and food.
+love wine, beer, and food. 
 
 In 2008 I wandered into a [Western New York winery](http://www.freedomrunwinery.com/)
 for a tasting and left with a job. In the small wine community of Niagara
@@ -30,7 +30,6 @@ here, too.
 
 I am fascinated with the ways wine intersects with society, history,
 politics, science, and popular culture, and [this blog](/blog) is my space to sort my
-thoughts, share my ideas, and air my grievances on these topics. I welcome
-your comments.
+thoughts, share my ideas, and air my grievances on these topics. 
 
 # Cheers!
