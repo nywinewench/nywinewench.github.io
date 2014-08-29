@@ -35,6 +35,6 @@ The nose is nutty, bread-crusty, and almost oxidative (in a pleasant way), with 
 
 > Yes, I wear foundation. Yes, I live with a man. Yes, I'm a middle-aged fag. But I know who I am, Val. It took me twenty years to get here, and I'm not gonna let some idiot senator destroy that. 
 
-You get the sense that for this man pain and laughter are not at all separate. 
+You get the sense that for this man pain and laughter are not at all separate. And I get that. 
 
 And I raise a glass to him as I watch this brilliant performance and prepare for the days ahead. 
