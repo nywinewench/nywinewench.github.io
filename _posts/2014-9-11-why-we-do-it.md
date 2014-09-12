@@ -29,4 +29,4 @@ I came home sore, tired, sunburnt, sweaty, dirty, and in no small amount of pain
 
 To be handed a glass of really, really good wine made from grapes grown on the soil you’ve been covered in all year is a really incredible thing. We all took a moment to enjoy the wine and the day, and the happy smiles of the group of friends who liked our grapes enough to make wine from them and share it. 
 
-That’s the buzz, the bug––that’s why I care about wine the way I do. After my first full season of working excessively in a vineyard, it was an amazing time to sit back and see the bigger picture. 
+That’s the buzz, the bug––that’s why I care about wine the way I do. After my first full season of working exclusively in a vineyard, it was an amazing time to sit back and see the bigger picture. 
