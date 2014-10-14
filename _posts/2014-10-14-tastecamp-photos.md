@@ -24,7 +24,7 @@ tweet: "I wanted to share some of my favorite photos from this gem of a region."
 
 ---
 
-I had the privilege of attending the great wine writers’ conference known as TasteCamp last weekend in New York State’s beautiful Hudson Valley, an hour or two north of New York City. My thoughts on the excellent wines, spirits, and ciders we tasted are on their way later this week, but I wanted to share some of my favorite photos from this gem of a region. 
+I had the privilege of attending the great wine writers’ conference known as [TasteCamp](http://newyorkcorkreport.com/tastecamp/) last weekend in New York State’s beautiful Hudson Valley, an hour or two north of New York City. My thoughts on the excellent wines, spirits, and ciders we tasted are on their way later this week, but I wanted to share some of my favorite photos from this gem of a region. 
 
 ![Millbrook cabernet franc grapes on vine](/photos/millbrookcf.jpg "Cabernet Franc grapes hang till November at Millbrook")
 
