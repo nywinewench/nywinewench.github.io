@@ -20,7 +20,7 @@ tags:
   - gamay
   - riesling
 
-tweet: "This is the message that will be tweeted or shared on facebook. It should be enclosed in quotation marks for safety."
+tweet: "The concept behind #TasteCamp is simple: it’s impossible to taste the best of an entire region in one weekend, but we can certainly try."
 
 ---
 
