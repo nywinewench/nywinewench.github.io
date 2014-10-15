@@ -20,7 +20,7 @@ tags:
   - gamay
   - riesling
 
-tweet: "The concept behind #TasteCamp is simple: it’s impossible to taste the best of an entire region in one weekend, but we can certainly try."
+tweet: "The concept behind #TasteCamp is simple."
 
 ---
 
