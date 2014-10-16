@@ -49,7 +49,7 @@ I understand the need to offer at least one consistent vinifera cultivar, but Hu
 **But riesling and pinot noir are not to be forgotten.**
 [Tousey](http://www.touseywinery.com), the host of TasteCamp’s annual BYOB dinner, really wowed the room with a vertical flight of estate rieslings. These showed mineral grace, just slightly less searing acidity than Finger Lakes rieslings, and dead-on lemon and lime flavors, and aged beautifully. But Tousey’s pinot noir 2013 was one of my favorite wines of the weekend. For a challenging vintage, this wine showed real mastery, giving the round and bare-skin sense of being encompassed in the arms of a lover. 
 
-![Hillrock distiller leads a tour](/photos/hillrock.jpg "Distiller at Hillrock leads a tour")
+![Hillrock owner Jeff Baker leads a tour](/photos/hillrock.jpg "Hillrock owner Jeff Baker leads a tour")
 
 **Hudson Valley has spirit.**
 Last but not least, the distilleries of the Hudson Valley were excellent, offering brandy, grappa, rye, and bourbon that showed creativity and command. I visited my first-ever maltster when we stepped inside [Hillrock](http://www.hillrockdistillery.com), a distillery committed to the expression of terroir within its very fine spirits. They floor-malt their own grain, turning it into bourbon, rye, and Scotch-style whiskey (infused with peat for a Speyside/Islay smokiness) that’s pricey but undeniably impressive. 
