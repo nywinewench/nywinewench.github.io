@@ -12,7 +12,7 @@ tags:
   - cava
   - bubbles
 
-tweet: "This is the message that will be tweeted or shared on facebook. It should be enclosed in quotation marks for safety."
+tweet: "Tonight, though, a little bubbly is in order."
 
 ---
 
