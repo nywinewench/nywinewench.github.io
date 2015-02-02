@@ -5,6 +5,14 @@ title: Résumé
 
 #### Work Experience
 
+### Web Editor, [The Progressive](http://www.progressive.org)
+
+##### November 2014–Present
+
+* Write, proof, manage, publish, and promote daily online content
+* Assign, write, edit, and source art for monthly magazine content
+* Support public relations and development departments using email marketing, social media, and site user management
+
 ### Freelance Writer, [Multiple Publications](/writing.html)
 
 ##### October 2002–Present
