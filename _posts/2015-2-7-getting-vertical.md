@@ -16,7 +16,7 @@ tweet: "I've never even had a ten-year vertical flight at a winery or at TasteCa
 
 ---
 
-"What's the significance of a flight?"
+"What's the significance of a vertical flight?"
 
 ![Donnhoff vertical flight](/photos/donnhoffflight.jpg "Donnhoff bottles from 2004 to 2014")
 
