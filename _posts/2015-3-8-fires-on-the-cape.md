@@ -22,9 +22,11 @@ tweet: "This week saw the Western Cape's largest wildfire in fifteen years. #Cap
 
 #### UPDATED March 9, 2015: Reports from Constantia farms
 
-> We are 80 percent finished harvesting. We did not sustain any damage to our vines, but some of the other Constantia farms did. We did get a bit of smoke taint on one of our blocks, but not as serious as some of the other farms. Wildfires generally only appears every 10 to 15 years and this is a natural process. –– *Johann de Swardt, Farm Manager, [Steenberg](http://www.steenbergfarm.com)*
+> We are 80 percent finished harvesting. We did not sustain any damage to our vines, but some of the other Constantia farms did. We did get a bit of smoke taint on one of our blocks, but not as serious as some of the other farms. Wildfires generally only appears every 10 to 15 years and this is a natural process. –– *Johann de Swardt, farm manager, [Steenberg](http://www.steenbergfarm.com)*
 
 > Groot Constantia suffered minimal damage during last week’s fire on the Cape Peninsula. The vineyards close to the fire were already harvested and we therefore do not expect any smoke damage to the unharvested vines, which still consist of about 30 percent of our total expected production. Wild fires will always be a threat in the Western Cape, and natural vegetation is designed to withstand these fires and is actually in need of these fires to germinate seeds. When farming next to natural vegetation this risk will therefore always be present. –– *Jean Naudé, CEO, [Groot Constantia](http://www.grootconstantia.co.za)*
+
+> The whole upper part of the mountain is burnt. So are the contours and green belts from the mid level of the farm. Some of our highest blocks on the mountain are badly touched. It seems like we did not have as much smoke and ash as some of our neighbours; time will tell once we bring the grapes in and start converting the skins to colour. We still are harvesting some of our red grapes and, of course, Muscat for Vin De Constance. –– *Hans Astrom, managing director, [Klein Constantia](http://www.kleinconstantia.com)*
 
 As harvest winds down in the Western Cape, wildfires erupted this week in Cape Town and beyond. I began seeing #CapeFire tweets on Monday morning and was alarmed to see images of [Table Mountain up in smoke](http://www.aljazeera.com/news/2015/03/table-mountain-catches-fire-150305094045913.html); wildfires are fairly common in the Western Cape, as in dry, windy climates throughout the world, but I hadn't seen this level of reaction before.
 
