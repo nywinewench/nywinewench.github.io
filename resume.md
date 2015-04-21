@@ -57,6 +57,10 @@ title: Résumé
 * Academic honors including Summa cum Laude, Phi Beta Kappa
 * Thesis, entitled _The Expanding Network of the Uyghurs: The Past and Prospects of the East Turkestan Independence Movement_, received the 2009 Marleigh Grayer Ryan College Student Writing Prize from the New York Conference on Asian Studies
 
+### Level 3 Award in Wines and Spirits, Wine & Spirit Education Trust (WSET)
+
+##### Napa Valley Wine Academy, January 2015
+
 #### Skills
 
 * Expert familiarity with the Chicago Manual of Style and the Associated Press Stylebook
