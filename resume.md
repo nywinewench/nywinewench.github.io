@@ -68,4 +68,4 @@ title: Résumé
 * Proficiency in publication layout and design via Adobe InDesign
 * Experience in web publishing using standards-compliant markup including HTML5 and Markdown
 * Experience writing in multiple formats, including long- and short-form articles and promotional copy
-* Wine-specific skills include sales, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks, from 2009 to the present
+* Wine-specific skills include sales, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
