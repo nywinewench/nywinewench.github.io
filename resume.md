@@ -5,13 +5,19 @@ title: Résumé
 
 #### Work Experience
 
+### Data Specialist, [SevenFifty](http://www.sevenfifty.com)
+
+##### May 2015–Present
+
+* Clean and review raw data from wine producers and distributor portfolios to be entered into SevenFifty's online platform for the wine industry
+
 ### Web Editor, [The Progressive](http://www.progressive.org)
 
-##### November 2014–Present
+##### November 2014–June 2015
 
-* Write, proof, manage, publish, and promote daily online content
-* Assign, write, edit, and source art for monthly magazine content
-* Support public relations and development departments using email marketing, social media, and site user management
+* Wrote, proofed, managed, published, and promoted daily online content
+* Assigned, wrote, edited, and sourced art for monthly magazine content
+* Supported public relations and development departments using email marketing, social media, and site user management
 
 ### Freelance Writer, [Multiple Publications](/writing.html)
 
