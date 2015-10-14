@@ -9,7 +9,9 @@ title: Résumé
 
 ##### September 2015–Present
 
-* Purchase products; curate selections for monthly wine club offerings; write marketing material; assist customers with wine selection and event planning
+* Purchase products and curate selections for monthly wine club offerings
+* Write marketing material and product descriptions 
+* Assist customers with wine selection and event planning
 
 ### Data Specialist, [SevenFifty](http://www.sevenfifty.com)
 
