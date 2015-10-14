@@ -5,6 +5,12 @@ title: Résumé
 
 #### Work Experience
 
+### Wine Buyer, [In Fine Spirits](http://www.infinespirits.com)
+
+##### September 2015–Present
+
+* Purchase products; curate selections for monthly wine club offerings; write marketing material; assist customers with wine selection and event planning
+
 ### Data Specialist, [SevenFifty](http://www.sevenfifty.com)
 
 ##### May 2015–Present
