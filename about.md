@@ -22,11 +22,7 @@ deeply in love.
 
 Here in the US, I am constantly seeking great South African wine, and I
 keep an eye on the South African wine industry; you’ll find [ample discussion of both](/blog)
-here. I’m also exploring the fascinating emerging wine industry of my
-new home state of Wisconsin––I help out at a vineyard south of Madison, where
-I’m learning to work with unfamiliar grapes like Marquette and Millot. So
-you’ll find plenty on my winemaking journey and cool-climate viticulture
-here, too.
+here. As of fall 2015, I'm also a buyer at a small wine retailer in the great city of Chicago, so I'll be writing about interesting things I learn and find at work, too.
 
 I am fascinated with the ways wine intersects with society, history,
 politics, science, and popular culture, and [this blog](/blog) is my space to sort my
