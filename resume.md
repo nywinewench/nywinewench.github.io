@@ -9,6 +9,7 @@ title: Résumé
 
 ##### September 2015–Present
 
+* Lead wine education program
 * Purchase products and curate selections for monthly wine club offerings
 * Write marketing material and product descriptions 
 * Assist customers with wine selection and event planning
