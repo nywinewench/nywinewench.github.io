@@ -4,7 +4,7 @@ title: About Julia Burke
 ---
 
 I am a writer with a special interest in social justice. I also happen to
-love wine, beer, and food. 
+love wine. 
 
 In 2008 I wandered into a [Western New York winery](http://www.freedomrunwinery.com/)
 for a tasting and left with a job. In the small wine community of Niagara
@@ -22,10 +22,9 @@ deeply in love.
 
 Here in the US, I am constantly seeking great South African wine, and I
 keep an eye on the South African wine industry; you’ll find [ample discussion of both](/blog)
-here. As of fall 2015, I'm also a buyer at a small wine retailer in the great city of Chicago, so I'll be writing about interesting things I learn and find at work, too.
+in my blog archive. In September 2015 I moved to the great city of Chicago to take a position as a buyer at a small wine retailer. I continue to write about wine and other topics, mostly at [Skepchick.org](http://skepchick.org), as I continue to be fascinated with the ways wine intersects with society, history,
+politics, science, and popular culture. 
 
-I am fascinated with the ways wine intersects with society, history,
-politics, science, and popular culture, and [this blog](/blog) is my space to sort my
-thoughts, share my ideas, and air my grievances on these topics. 
+Examples of my work, podcast and media appearances, observations from life as a buyer and wine instructor, and a bit more of my history can all be found here.
 
 # Cheers!
