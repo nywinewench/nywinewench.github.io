@@ -7,16 +7,17 @@ title: Résumé
 
 ### Wine Buyer, [In Fine Spirits](http://www.infinespirits.com)
 
-##### September 2015–Present
+##### September 2015–present
 
+* Manage wine selection, inventory, and ordering
 * Lead wine education program
-* Purchase products and curate selections for monthly wine club offerings
-* Write marketing material and product descriptions 
+* Purchase products and curate selections for monthly wine club 
+* Manage social media; write marketing material and product descriptions 
 * Assist customers with wine selection and event planning
 
 ### Data Specialist, [SevenFifty](http://www.sevenfifty.com)
 
-##### May 2015–Present
+##### May 2015–present
 
 * Clean and review raw data from wine producers and distributor portfolios to be entered into SevenFifty's online platform for the wine industry
 
@@ -30,7 +31,7 @@ title: Résumé
 
 ### Freelance Writer, [Multiple Publications](/writing.html)
 
-##### October 2002–Present
+##### October 2002–present
 
 * First place award from the North American Mature Publishers Association for my 2012 _Forever Young_ article _Love over 50: Changing Attitudes, New Joys_
 * Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html)
@@ -45,7 +46,7 @@ title: Résumé
 
 ### Communications Consultant, The Park School of Buffalo
 
-##### March 2012–September 2012
+##### March 2012–September 2012 (contract position)
 
 * Wrote press releases, newsletters, and original website and various print media content
 * Communicated to and coordinated with local media
