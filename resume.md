@@ -5,21 +5,27 @@ title: Résumé
 
 #### Work Experience
 
+### Sales Educator, [Fine Vines](http://www.finevines.com)
+
+##### February 2017–present
+
+* Run classes, staff trainings, and tastings
+
 ### Wine Buyer, [In Fine Spirits](http://www.infinespirits.com)
 
-##### September 2015–present
+##### September 2015–February 2017
 
-* Manage wine selection, inventory, and ordering
-* Lead wine education program
-* Purchase products and curate selections for monthly wine club 
-* Manage social media; write marketing material and product descriptions 
-* Assist customers with wine selection and event planning
+* Managed wine selection, inventory, and ordering
+* Led wine education program
+* Purchased products and curated selections for monthly wine club 
+* Managed social media; wrote marketing material and product descriptions 
+* Assisted customers with wine selection and event planning
 
 ### Data Specialist, [SevenFifty](http://www.sevenfifty.com)
 
-##### May 2015–present
+##### May 2015–February 2017
 
-* Clean and review raw data from wine producers and distributor portfolios to be entered into SevenFifty's online platform for the wine industry
+* Cleaned and reviewed raw data from wine producers and distributor portfolios to be entered into SevenFifty's online platform for the wine industry
 
 ### Web Editor, [The Progressive](http://www.progressive.org)
 
