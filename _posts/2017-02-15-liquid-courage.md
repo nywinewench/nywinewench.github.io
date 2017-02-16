@@ -20,9 +20,9 @@ tweet: "Drink these and call your damn Congresspeople."
 ---
 If you've ever talked to me on the phone, I want you to know that I was on the verge of a panic attack the second before I picked up. I can say this with confidence. I truly, deeply hate the phone, no matter who's on the other end or what we're talking about. 
 
-![Libertat Cava](/photos/libertat.jpg "Libertat Cava")
-
 After spending years cold-calling people to ask them personal questions for a publication they may or may not like for a story that may or may not portray them favorably, you'd think I'd be used to it by now. Nope. I still experience this utter terror every time I have to make or answer a call. For my weird brain, participating in a protest or writing about deeply personal stuff to try to normalize it has nothing on the sound of a dial tone.
+
+![Libertat Cava](/photos/libertat.jpg "Libertat Cava")
 
 So when I tell you that I've been calling one of my members of Congress every weekday since January 1 to express my gratitude (Hi, Tammy Duckworth!), hopes, or disappointment over whatever issue is particularly urgent that day, I'm not trying to say it's a big deal––in some cases it might be, while in others it's just a matter of being one more name to an exhausted staffer on an issue that's all but decided already––but it's a big deal for me. One of my representatives sends letters to constituents who call updating them on how he voted. Another has really sweet office staff who always thank callers for making their voice heard. With every call it gets a little easier, and it's one thing I can do every single day.
 
