@@ -40,12 +40,18 @@ Here are some good ones I've been drinking in the last week.
 
 I taught my Spanish Wine class this week and remembered how much I love this apple-y, almost fluffy Cava. It's about $15 and just the best for sipping on while you write out your talking points or, if you work in this or another crazy industry and have a weekday morning off, sit on your couch redialing your busy Senator's number until you get through. 
 
+Script starter: "Hi, my name is Julia and I live in Chicago. I'm calling to thank Senator X for voting for Awesome Bill 3. This issue is very important to me [I might add "as a..." with any personal identifiers that apply to the situation] and I appreciate the Senator's actions." If the Congressperson has made an informal statement, like a tweet, I thank them for that but also add something like "I'm counting on the Senator to follow up on her statements about Awesome Bill 3 with tangible action." If you're feeling extra punchy: "Are you able to tell me how she'll be voting?"
+
 ### For making a polite but firm request: Occhipinti Il Frappato
 
 [Arianna Occhipinti](http://www.agricolaocchipinti.it/en/), one of my favorite winemakers, is known for her unapologetic Sicilian grape expressions that combine earthy, mineral-driven intensity with beautiful, honest fruit. I channel her regularly when I'm trying to get a point across to a potentially hostile audience––after all, she was a proponent of the natural wine movement before it was cool. 
 
-### For letting a representative know that you feel really strongly about something while still sounding like a serious individual: Holloran Tempranillo
+Script starter: "Hi, I'm a Chicagoan and I'm concerned about Upcoming Vote X (if you want, list one to two brief reasons why you care about this issue). I'm calling to ask Representative Y to please vote No on this bill. My vote in 2018 will depend on it."
+
+### For letting a representative know that you feel really strongly about something while still sounding like a serious, adult individual: Holloran Tempranillo
 
 Oregon Tempranillo is surprisingly good when done well, and this one is super delicious with the classic leather-and-spice Tempranillo profile joining really pretty Willamette red fruit. One of my biggest obstacles when calling Congress members is getting worked up and forgetting what I want to say––so I write it out ahead of time but make sure it contains strong enough (but still polite) wording that I feel like I'm getting my voice heard. This wine's smooth and cerebral elegance is kind of perfect for chilling out without diluting your message.
 
-I feel obligated to mention that I don't recommend drunk dialing your Congresspeople. 
+Script starter: "Hello, I'm calling from Chicago to ask Representative Z to please oppose Proposition Awful Thing. I oppose this Proposition as a (list one to two relevant identifiers, like "parent" or "queer person") and I hope to see Representative Z fight for my rights. I love living in this state but my quality of life/safety/health will suffer as a direct result of Proposition Awful Thing."
+
+I feel obligated to mention that I don't recommend drunk dialing your Congresspeople. And thank the staffers for their time.
