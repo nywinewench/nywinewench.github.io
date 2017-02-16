@@ -32,7 +32,7 @@ Allow me.
 
 Personally, you know what scares me even more than the phone? The gutting of public schools. The Trump administration. Fascism. 
 
-If you're so inclined and just need a nudge, I highly suggest taking advantage of the inhibition removal device widely known as ethanol, and pour yourself a glass of wine while you write out or copy down some scripts for your Congress members. Have friends over. I like [DailyAction](https://dailyaction.org) and [GovTrack](https://www.govtrack.us). Make a plan, then make the call and treat it like you're calling the hospital on behalf of a loved one in crisis, because that analogy isn't far off.
+If you're so inclined and just need a nudge, I highly suggest taking advantage of the inhibition removal device widely known as ethanol, and pour yourself a glass of wine while you write out or copy down some scripts for your Congress members. Have friends over. I like [DailyAction](https://dailyaction.org) and [GovTrack](https://www.govtrack.us) for issue prompts. Make a plan, then make the call and treat it like you're calling the hospital on behalf of a loved one in crisis, because that analogy isn't far off.
 
 Here are some good ones I've been drinking in the last week.
 
