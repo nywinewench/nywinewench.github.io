@@ -5,7 +5,7 @@ subtitle: Underfunded public defenders, sanctuary cities, and Get Out
 
 layout: entry
 
-category: Wine
+category: To Read
 
 tags:
   - activism
