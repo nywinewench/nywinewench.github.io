@@ -17,6 +17,7 @@ tags:
   - Begyle
   - beer
   - racism
+  - drink this/read this
 
 tweet: "Underfunded public defenders, sanctuary cities, and Get Out"
 
