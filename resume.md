@@ -5,11 +5,11 @@ title: Résumé
 
 #### Work Experience
 
-### Sales Educator, [Fine Vines](http://www.finevines.com)
+### Sales Educator
 
 ##### February 2017–present
 
-* Run classes, staff trainings, and tastings
+* Classes, staff trainings, tastings, and educational material for a Chicago wine importer
 
 ### Wine Buyer, [In Fine Spirits](http://www.infinespirits.com)
 
