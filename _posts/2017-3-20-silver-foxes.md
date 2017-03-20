@@ -1,7 +1,7 @@
 ---
 title: Silver Foxes
 
-subtitle: Older is not always better, except when it is
+subtitle: Older is not always better, but try it anyway.
 
 layout: entry
 
@@ -18,7 +18,7 @@ tags:
   - cinsault
   - carignan
 
-tweet: "Older is not always better, except when it is."
+tweet: "Older is not always better, but try it anyway."
 
 ---
 
