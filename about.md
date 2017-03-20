@@ -22,9 +22,9 @@ deeply in love.
 
 Here in the US, I am constantly seeking great South African wine, and I
 keep an eye on the South African wine industry; you’ll find [ample discussion of both](/blog)
-in my blog archive. In September 2015 I moved to the great city of Chicago to take a position as a buyer at a small wine retailer. I continue to write about wine and other topics, mostly at [Skepchick.org](http://skepchick.org), as I continue to be fascinated with the ways wine intersects with society, history,
+in my blog archive. In September 2015 I moved to the great city of Chicago to join its exciting and dynamic wine industry. I continue to write about wine and other topics, mostly at [Skepchick.org](http://skepchick.org), as I continue to be fascinated with the ways wine intersects with society, history,
 politics, science, and popular culture. 
 
-Examples of my work, podcast and media appearances, observations from life as a buyer and wine instructor, and a bit more of my history can all be found here.
+Examples of my work, podcast and media appearances, observations from life as a wine professional and educator, and a bit more of my history can all be found here.
 
 # Cheers!
