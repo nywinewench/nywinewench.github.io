@@ -18,9 +18,9 @@ tweet: "What are your views on the classification of Bordeaux wines?"
 ---
 _With my WSET Diploma Unit 3 exam looming in the not-so-distant future, I've been practicing writing essays on a variety of wine industry topics, and friends suggested I post them [here](http://stellenbauchery.com/blog/categories.html#wset). The countdown has begun, and it's time for daily review starting with Bordeaux. Today's question: What are your views on the classification of Bordeaux wines?_
 
-While my customers understand that Cru Classé Bordeaux wines are special, important, and above all expensive, few of them understand why. 
-
 ![Bordeaux cork coming out of bottle](/photos/bordeauxcork.jpg "Bordeaux cork from bottle")
+
+While my customers understand that Cru Classé Bordeaux wines are special, important, and above all expensive, few of them understand why. 
 
 In my role as a wine educator I work with wine beginners for the most part, most of whom could tell you the grapes in Bordeaux but probably not explain what the 1855 classification was or what it can tell us today. If they asked––and they typically don’t; I don’t see a lot of interest in classified Bordeaux from my customers because they see it as overpriced and inaccessible, and their interests lie toward the opposite––here’s what I’d tell them.
 
