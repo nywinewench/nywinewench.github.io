@@ -22,7 +22,7 @@ Julien managed to pose a question I haven't seen in *any* of my study materials:
 
 ![Koshu grapes from Grace Winery](/photos/koshu.jpg "Koshu grapes at Grace Winery")
 
-Considering the Japanese obsessions with flavor balance, craftsmanship, and culinary technique, the nation's thousands of sommeliers and distinction as the first modern wine industry in Asia make sense. From a meteorological perspective, however, it's amazing the country produces any high-quality wine at all. 
+Considering the Japanese affinities for flavor balance, craftsmanship, and culinary technique, the nation's thousands of sommeliers and distinction as the first modern wine industry in Asia make sense. From a meteorological perspective, however, it's amazing the country produces any high-quality wine at all. 
 
 Japan's climate is extreme, with icy Siberian winds in winter, monsoons in the spring and summer, and typhoons in the early fall putting growers on year-round disaster alert. Yet wine is made in 36 of Japan's 47 prefectures, determinedly, despite the climate and a population density in many areas that makes available, arable land difficult to find. The best and historically most important prefecture for wine is Yamanashi, not far from Mt. Fuji and an easy distance from the capital. Here, a long growing season and high average temperatures give grapes the best shot at ripening (though chaptalization--the addition of sugar before fermentation to ensure sufficient potential alcohol--is often necessary). Everywhere wine is made in Japan, drainage, rain protection, and long sunny days are crucial.
 
