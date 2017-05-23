@@ -1,7 +1,7 @@
 ---
 title: Burgundy in Sicily
 
-subtitle: What is the equivalent of a Burgundian climat on the island of Etna?
+subtitle: What is the equivalent of a Burgundian climat on the Etna?
 
 layout: entry
 
@@ -14,7 +14,7 @@ tags:
   - nerello mascalese
   - pinot noir
 
-tweet: "What is the equivalent of a Burgundian climat on the island of Etna?"
+tweet: "What is the equivalent of a Burgundian climat on the Etna?"
 
 ---
 _With my WSET Diploma Unit 3 exam looming in the not-so-distant future, I've been practicing writing essays on a variety of wine industry topics, and friends suggested I post them [here](http://stellenbauchery.com/blog/categories.html#wset). My friend Julien Marchand had a few excellent prompts._
