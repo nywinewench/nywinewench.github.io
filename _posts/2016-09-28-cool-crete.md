@@ -13,7 +13,7 @@ tags:
   - Douloufakis
   - Dafne
 
-tweet: "I never thought I would use the word \Burgundian\ on a Greek wine until I tried this one."
+tweet: "I never thought I would use the word Burgundian on a Greek wine until I tried this one."
 
 wine:
   winery: Douloufakis
