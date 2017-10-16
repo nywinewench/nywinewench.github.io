@@ -3,7 +3,7 @@ title: Suitcases, Wine, and Goodbyes
 
 layout: entry
 
-category: South African wine
+category: South African Wine
 
 tags:
   - Blaauwklippen

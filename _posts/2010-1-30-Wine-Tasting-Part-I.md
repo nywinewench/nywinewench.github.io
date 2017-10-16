@@ -1,7 +1,7 @@
 ---
 title: Wine Tasting, Part I
 layout: entry
-category: South African wine
+category: South African Wine
 
 tags:
   - Stellenbosch

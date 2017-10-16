@@ -5,9 +5,18 @@ url: "http://stellenbauchery.com"
 
 # included modules
 markdown: redcarpet
-pygments: false
+highlighter: pygments
+
+# included gems
+plugins:
+- jekyll-paginate
 
 # blog configuration
 permalink: /blog/:month-:day-:year/:title.html
 paginate: 5
 paginate_path: 'blog/page:num'
+
+# writings
+collections:
+  writings:
+    output: true

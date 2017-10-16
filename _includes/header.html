@@ -10,7 +10,7 @@
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
     <meta name='viewport' content='width=device-width'>
-    <meta name='description' content="{{ site.description | double_to_single_quotes }}">
+    <meta name='description' content="{{ site.description | smartify }}">
 
     <link rel='icon' type='image/png' href='/images/favicon.png'>
     <link rel='stylesheet' type='text/css' href='/stylesheets/normalize.css'>
@@ -20,7 +20,7 @@
     <meta property='og:title' content="{{ page_title }}">
     <meta property='og:site_name' content="{{ site.name }}">
     <meta property='og:url' content="{{ site.url }}{{ page.url }}">
-    <meta property='og:description' content="{{ page_description | double_to_single_quotes }}">
+    <meta property='og:description' content="{{ page_description | smartify }}">
     <meta property='og:type' content="blog">
   </head>
 
