@@ -24,7 +24,7 @@ title: Selected Works
           {% else %}
             {{ w.publication.title }}
           {% endif %}
-        </i> on {{ w.date | display_date }}</h5>
+        </i> on {{ w.date | date_to_string }}</h5>
 
         {% if w.article.link %}
           {{ w.content | remove_first: '</p>' | append: ' <a href="' | append: w.article.link | append: '">Read the full article.</a></p>' }}

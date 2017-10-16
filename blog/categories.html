@@ -8,14 +8,14 @@ title: Entries by Category
 
   {% for category_obj in site.categories %}
     {% assign category = category_obj[0] %}
-    {% assign category_id = category | normalize %}
+    {% assign category_id = category | slugify %}
     <h3 class='capitalize bottom_border' id='{{ category_id }}'>{{ category }}</h3>
 
     <table>
       <tbody>
         {% for entry in site.categories[category] %}
           <tr>
-            <th class='smaller plain'>{{ entry.date | display_date }}</th>
+            <th class='smaller plain'>{{ entry.date | date_to_string }}</th>
             <td><a class='no_border' href='{{ entry.url }}'>{{ entry.title }}</a></td>
           </tr>
         {% endfor %}
@@ -30,7 +30,7 @@ title: Entries by Category
   <ul class='plain small bold no_bullets'>
     {% for category_obj in site.categories %}
       {% assign category = category_obj[0] %}
-      {% assign category_id = category | normalize %}
+      {% assign category_id = category | slugify %}
       <li><a class='no_border capitalize' href='#{{ category_id }}'>{{ category }}</a></li>
     {% endfor %}
   </ul>

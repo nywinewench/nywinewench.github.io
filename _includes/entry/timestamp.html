@@ -1,8 +1,8 @@
 {% if entry.category %}
-  {% assign category_id = entry.category | normalize %}
+  {% assign category_id = entry.category | slugify %}
   In <a href='/blog/categories.html#{{ category_id }}'>{{ entry.category }}</a>
   {% if include.multiline %}</br>{% endif %}
-  on {{ entry.date | display_date }}
+  on {{ entry.date | date_to_string }}
 {% else %}
-  On {{ entry.date | display_date }}
+  On {{ entry.date | date_to_string }}
 {% endif %}

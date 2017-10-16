@@ -1,5 +1,4 @@
 ---
-layout: none
 ---
 
 {% include pagination/title.html %}
@@ -43,7 +42,7 @@ layout: none
     <ul class='plain small bold no_bullets'>
       {% for category_obj in site.categories limit:10 %}
         {% assign category = category_obj[0] %}
-        {% assign category_id = category | normalize %}
+        {% assign category_id = category | slugify %}
         <li><a class='no_border capitalize' href='/blog/categories.html#{{ category_id }}'>{{ category }}</a></li>
       {% endfor %}
     </ul>
@@ -52,7 +51,7 @@ layout: none
     <ul class='pills'>
       {% for tag_obj in site.tags limit:10 %}
         {% assign tag = tag_obj[0] %}
-        {% assign tag_id = tag | normalize %}
+        {% assign tag_id = tag | slugify %}
         <li><a href='/blog/tags.html#{{ tag_id }}'>{{ tag }}</a></li>
       {% endfor %}
     </ul

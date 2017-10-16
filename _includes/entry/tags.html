@@ -1,6 +1,6 @@
 <ul class='inline_list pills'>
   {% for tag in entry.tags %}
-    {% assign tag_id = tag | normalize %}
+    {% assign tag_id = tag | slugify %}
     <li><a href='/blog/tags.html#{{ tag_id }}'>{{ tag }}</a></li>
   {% endfor %}
 </ul>
