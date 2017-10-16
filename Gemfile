@@ -3,7 +3,4 @@
 
 source 'http://rubygems.org'
 
-gem 'jekyll', '~> 3'
-
-gem 'jekyll-paginate', group: 'jekyll_plugins'
-gem 'redcarpet', group: 'jekyll_plugins'
+gem 'github-pages', group: 'jekyll_plugins'
