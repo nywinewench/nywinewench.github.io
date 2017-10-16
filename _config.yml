@@ -3,10 +3,6 @@ name: "Stellenbauchery by Julia Burke"
 description: "The South African wine blog and freelance writing site of Julia Burke."
 url: "http://stellenbauchery.com"
 
-# included modules
-markdown: redcarpet
-highlighter: pygments
-
 # included gems
 plugins:
 - jekyll-paginate
