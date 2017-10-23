@@ -5,9 +5,15 @@ title: Résumé
 
 #### Work Experience
 
-### Sales Educator
+### Harvest Crew Member, [Alexana Winery](https://www.alexanawinery.com/)
 
-##### February 2017–present
+##### August 2017–Present
+
+* Cellar duties from vineyard sampling to bottling
+
+### Sales Educator, [Fine Vines](http://www.finevines.com/)
+
+##### February–August 2017
 
 * Classes, staff trainings, tastings, and educational material for a Chicago wine importer
 
