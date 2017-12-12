@@ -5,9 +5,17 @@ title: Résumé
 
 #### Work Experience
 
+### Marketing and Content Coordinator, [Willamette Valley Wineries Association](http://willamettewines.com/)
+
+##### November 2017–Present
+
+* Manage website content; write, edit, and process content for the Wineries Association website and its associated sites
+* Use analytics and SEO to optimize traffic and user experience
+* Coordinate marketing projects benefitting the Wineries Association and the Willamette Valley wine industry
+
 ### Harvest Crew Member, [Alexana Winery](https://www.alexanawinery.com/)
 
-##### August 2017–Present
+##### August–November 2017
 
 * Cellar duties from vineyard sampling to bottling
 
