@@ -54,7 +54,7 @@ title: Résumé
 ##### October 2002–present
 
 * First place award from the North American Mature Publishers Association for my 2012 _Forever Young_ article _Love over 50: Changing Attitudes, New Joys_
-* Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html)
+* Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html) and [_The Handbook of Porters & Stouts: The Ultimate, Complete and Definitive Guide (Cider Mill Press, 2014)_](http://www.simonandschuster.com/books/The-Handbook-of-Porters-Stouts/Cider-Mill-Press/9781604334777)
 * Current contributor to [Pouring Points](https://napavalleywineacademy.com/blog/), the blog of the Napa Valley Wine Academy
 
 ### Assistant/Associate Editor, _Buffalo Spree Magazine_ and _Forever Young Magazine_
