@@ -5,7 +5,7 @@ title: Résumé
 
 #### Work Experience
 
-### Marketing and Content Coordinator, [Willamette Valley Wineries Association](http://willamettewines.com/)
+### Marketing and Communications Coordinator, [Willamette Valley Wineries Association](http://willamettewines.com/)
 
 ##### November 2017–Present
 
