@@ -3,8 +3,7 @@ layout: large_column_only
 title: About Julia Burke
 ---
 
-I am a writer with a special interest in labor issues, culture, and left-leaning politics. I also happen to
-love wine. 
+I am either a wine lover who writes a lot or a writer who accidentally fell in love with wine, depending on where I start the story.
 
 In 2008 I wandered into a [Western New York winery](http://www.freedomrunwinery.com/)
 for a tasting and left with a job. In the small wine community of Niagara
