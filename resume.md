@@ -10,8 +10,8 @@ title: Résumé
 ##### November 2017–Present
 
 * Manage website content; write, edit, and process content for the Wineries Association website and its associated sites
-* Use analytics and SEO to optimize traffic and user experience
 * Coordinate marketing projects benefitting the Wineries Association and the Willamette Valley wine industry
+* Manage organization's print publications and communications to the public and membership
 
 ### Harvest Crew Member, [Alexana Winery](https://www.alexanawinery.com/)
 
@@ -99,11 +99,15 @@ title: Résumé
 
 ##### Napa Valley Wine Academy, January 2015
 
+### Diploma in Wines and Spirits, Wine & Spirit Education Trust (WSET)
+
+##### Grape Experience, completed April 2019
+
 #### Skills
 
 * Expert familiarity with the Chicago Manual of Style and the Associated Press Stylebook
 * Proficiency in photography and photo-enhancement via Adobe Photoshop
-* Proficiency in publication layout and design via Adobe InDesign
+* Proficiency in publication layout and design via Adobe InDesign and Adobe Illustrator
 * Experience in web publishing using standards-compliant markup including HTML5 and Markdown
 * Experience writing in multiple formats, including long- and short-form articles and promotional copy
 * Wine-specific skills include sales, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
