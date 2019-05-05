@@ -28,7 +28,7 @@ Support comes in many forms. I can't post about this without recognizing my incr
 
 I can't even imagine life, let alone surviving this program, without my dear friends who made me blind taste things when we hung out, let me crash on their couch during exams (or, in one case, for an entire month while I moved to Chicago to take my first big wine job), quizzed me, and cheered me on every step of the way. 
 
-I can't believe how lucky I am to get to share an industry with and learn from my actual heroes, Elaine Chukan Brown and Bree Boskov Stock.
+I can't believe how lucky I am to get to share an industry with and learn from my actual heroes, Elaine Chukan Brown and Bree Boskov Stock. And I’m thankful all the time that I have the best mentor in the world in Kim Oshiro.
 
 Finally, there's simply no pin for me without the people who took whole evenings to taste wine together and break apart the art and science of what's in the glass in front of us. You all know who you are. Thank you, for everything. 
 
