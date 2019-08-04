@@ -9,7 +9,8 @@ title: Résumé
 
 ##### November 2017–Present
 
-* Manage website content; write, edit, and process content for the Wineries Association website and its associated sites
+* Present educational seminars on Willamette Valley wines and create and edit educational materials; assist masterclass presenters by setting up and coordinating seminars
+* Manage website content; write, edit, and publish content for the Wineries Association website and its associated sites
 * Coordinate marketing projects benefitting the Wineries Association and the Willamette Valley wine industry
 * Manage organization's print publications and communications to the public and membership
 
