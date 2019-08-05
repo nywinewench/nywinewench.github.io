@@ -83,7 +83,6 @@ title: Résumé
 * Edited and proofread magazines and newsletters according to the Chicago Manual of Style
 * Contributed articles and created original website content and informational and promotional copy
 * Provided input on workflow, design, layout, and content as a member of the Creative Team
-* Communicated with authors and readers
 
 #### Education
 
@@ -111,4 +110,5 @@ title: Résumé
 * Proficiency in publication layout and design via Adobe InDesign and Adobe Illustrator
 * Experience in web publishing using standards-compliant markup including HTML5 and Markdown
 * Experience writing in multiple formats, including long- and short-form articles and promotional copy
-* Wine-specific skills include sales, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
+* Wine-specific skills include sales, staff training, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
+* Language backgrounds: Mandarin and French (B2–C1); able to regain functional proficiency quickly as needed
