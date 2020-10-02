@@ -24,7 +24,7 @@ title: Résumé
 
 ##### February–August 2017
 
-* Classes, staff trainings, tastings, and educational material for a Chicago wine importer
+* Conducted classes, staff trainings, and tastings at accounts and created educational material for a Chicago wine importer
 
 ### Wine Buyer, [In Fine Spirits](http://www.infinespirits.com)
 
@@ -113,4 +113,4 @@ title: Résumé
 * Experience in web publishing using standards-compliant markup including HTML5 and Markdown
 * Experience writing in multiple formats, including long- and short-form articles and promotional copy
 * Wine-specific skills include sales, staff training, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
-* Language backgrounds: Russian (B1; current), Mandarin and French (proficient but rusty); able to regain functional proficiency quickly as needed
+* Language backgrounds: Russian (B1; current), Mandarin and French (once-proficient but rusty; able to regain functional proficiency quickly as needed)
