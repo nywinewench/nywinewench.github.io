@@ -15,7 +15,7 @@ tweet: “With no possible clue what the future could hold, it’s a little comf
 ---
 In 2008 I started working in the wine industry and realized I wanted to learn everything I possibly could about wine. I wasn’t sure how to do this, being about to graduate with a degree in a completely unrelated field, but hey, there was a recession on, and jobs in the beverage business paid the bills. 
 
-![MW Welcome](/photos/mwwelcome.jpg “MW Welcome”)
+![Welcome](/photos/mwwelcome.jpg "Welcome")
 
 In 2010 I learned that there was something called a Master of Wine. I was spending a lot of time around people who were very much of the “school of hard knocks” philosophy and I had no money, so I didn’t pursue any fancy wine education. But it stuck in my head because, well, it sounded awesome.
 
