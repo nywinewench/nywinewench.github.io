@@ -15,6 +15,8 @@ tweet: “With no possible clue what the future could hold, it’s a little comf
 ---
 In 2008 I started working in the wine industry and realized I wanted to learn everything I possibly could about wine. I wasn’t sure how to do this, being about to graduate with a degree in a completely unrelated field, but hey, there was a recession on, and jobs in the beverage business paid the bills. 
 
+![MW Welcome](/photos/mwwelcome.jpg “MW Welcome”)
+
 In 2010 I learned that there was something called a Master of Wine. I was spending a lot of time around people who were very much of the “school of hard knocks” philosophy and I had no money, so I didn’t pursue any fancy wine education. But it stuck in my head because, well, it sounded awesome.
 
 In 2015 I realized I was never going to love anything as much as wine, even when I was using it to pay the bills. In fact, working with wine made me love it more. (Working as a writer made me broke and maximally neurotic.) I went to Napa to get my WSET Advanced, and an instructor there explained the path to higher levels of wine education and the Master of Wine study program. Horrible at concealing excitement as usual, I asked him what was probably a pretty dorky follow-up question, and he said, “You’ll be one of the ones who takes that path. I can see it in your eyes already.” When you grow up with ADHD, teachers don’t tell you things like that very often, so I didn’t forget it.
