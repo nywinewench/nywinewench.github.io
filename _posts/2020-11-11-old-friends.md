@@ -18,7 +18,7 @@ tweet: “Whenever you get lonely, you just go to the record store and visit you
 ---
 One of the aspects of the MW program I was most excited about was learning more about the parts of the wine world I’ve totally missed or neglected. I’ll be honest, though; it’s already brought plenty of opportunities to delve once again into my big passion, South African wine, and I’m not sorry about it.  
 
-![Welcome](/photos/sijnn.jpg "Sijnn")
+![Sijnn](/photos/sijnn.jpg "Sijnn")
 
 I joined the Cape Ardor club awhile back to stay in the loop, and after a particularly tough mock exam on white wines I cracked this open, needing a cuddle. This Rhone/Douro blend comes from one of my favorite names in South African wine, De Trafford, and comprises Syrah, Mourvedre, Touriga Nacional and Trincadeira. Its WO is Malgas, an appellation on the Breede River that reminded David and Rita of Portugal when they spent holiday there. 
 
