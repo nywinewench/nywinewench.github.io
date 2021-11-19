@@ -8,13 +8,18 @@ title: Résumé
 ### Communications and Education Manager, [Willamette Valley Wineries Association](http://willamettewines.com/)
 
 ##### Current role: July 2021–Present
-##### Marketing and Communications Coordinator: May 2018–July 2021
-##### Marketing and Content Coordinator: November 2017–May 2018
 
 * Manage education programs for the Willamette Valley Wineries Association (WVWA) including the education components of Oregon Pinot Camp; Willamette: The Pinot Noir Auction; Oregon Wine Month; and other events
 * Present educational seminars on Willamette Valley wines and create and edit educational materials for the trade, media, and consumers
 * Manage website content; write, edit, and curate content for the WVWA website and its associated sites
 * Manage WVWA communications to the public, media, trade, and membership
+##### Marketing and Communications Coordinator: May 2018–July 2021
+* Coordinated marketing projects and programs to promote and advance the prestige of Willamette Valley wine
+* Created, edited and curated content for the WVWA websites
+* Assisted the organization of master classes and events throughout the year
+##### Marketing and Content Coordinator: November 2017–May 2018
+* Wrote and edited content for the WVWA’s websites
+* Helped coordinate marketing projects and programs to promote and advance the prestige of Willamette Valley wine
 
 ### Harvest Crew Member, [Alexana Winery](https://www.alexanawinery.com/)
 
@@ -54,12 +59,12 @@ title: Résumé
 
 ### Freelance Writer, [Multiple Publications](/writing.html)
 
-##### October 2002–present
+##### October 2002–November 2017 (available for current projects on a case-by-case basis)
 
 * Freelance writer and research consultant for Vivino, 2016–2017
 * First place award from the North American Mature Publishers Association for my 2012 _Forever Young_ article _Love over 50: Changing Attitudes, New Joys_
 * Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html) and [_The Handbook of Porters & Stouts: The Ultimate, Complete and Definitive Guide (Cider Mill Press, 2014)_](http://www.simonandschuster.com/books/The-Handbook-of-Porters-Stouts/Cider-Mill-Press/9781604334777)
-* Current contributor to [Pouring Points](https://napavalleywineacademy.com/blog/), the blog of the Napa Valley Wine Academy
+* Contributor to numerous additional publications focusing on wine, beer, food, politics, and other topics
 
 ### Assistant/Associate Editor, _Buffalo Spree Magazine_ and _Forever Young Magazine_
 
@@ -94,7 +99,7 @@ title: Résumé
 
 * Minor in linguistics
 * Concentration in China Studies
-* Academic honors including Summa cum Laude, Phi Beta Kappa
+* Summa cum Laude, Phi Beta Kappa
 * Thesis, entitled _The Expanding Network of the Uyghurs: The Past and Prospects of the East Turkestan Independence Movement_, received the 2009 Marleigh Grayer Ryan College Student Writing Prize from the New York Conference on Asian Studies
 
 ### Level 3 Award in Wines and Spirits, Wine & Spirit Education Trust (WSET)
@@ -109,10 +114,10 @@ title: Résumé
 
 #### Skills
 
-* Expert familiarity with the Chicago Manual of Style and the Associated Press Stylebook
+* Extensive experience copyediting according to the Chicago Manual of Style and the Associated Press Stylebook
 * Proficiency in photography and photo-enhancement via Adobe Photoshop
 * Proficiency in publication layout and design via Adobe InDesign and Adobe Illustrator
 * Experience in web publishing using standards-compliant markup including HTML5 and Markdown
-* Experience writing in multiple formats, including long- and short-form articles and promotional copy
-* Wine-specific skills include sales, staff training, customer service and education, vineyard sampling and harvesting, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
-* Language backgrounds: Russian (B1; current), Mandarin and French (once-proficient but rusty; able to regain functional proficiency quickly as needed)
+* Extensive experience copywriting for a wide variety of audiences
+* Wine-specific skills include sales, staff training, customer service and education, vineyard sampling and picking, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
+* Language backgrounds: Russian (B1-B2; current), Mandarin and French (once-proficient but rusty; able to regain functional proficiency quickly as needed)
