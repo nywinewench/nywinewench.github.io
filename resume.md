@@ -5,14 +5,14 @@ title: Résumé
 
 #### Work Experience
 
-### Marketing and Communications Coordinator, [Willamette Valley Wineries Association](http://willamettewines.com/)
+### Communications and Education Manager, [Willamette Valley Wineries Association](http://willamettewines.com/)
 
 ##### November 2017–Present
 
-* Present educational seminars on Willamette Valley wines and create and edit educational materials; assist masterclass presenters by setting up and coordinating seminars
-* Manage website content; write, edit, and publish content for the Wineries Association website and its associated sites
-* Coordinate marketing projects benefitting the Wineries Association and the Willamette Valley wine industry
-* Manage organization's print publications and communications to the public and membership
+* Manage education programs for the Willamette Valley Wineries Association (WVWA) including the education components of Oregon Pinot Camp; Willamette: The Pinot Noir Auction; Oregon Wine Month; and other events
+* Present educational seminars on Willamette Valley wines and create and edit educational materials for the trade, media and consumers
+* Manage website content; write, edit, and curate content for the WVWA website and its associated sites
+* Manage WVWA communications to the public, media, trade and membership
 
 ### Harvest Crew Member, [Alexana Winery](https://www.alexanawinery.com/)
 
