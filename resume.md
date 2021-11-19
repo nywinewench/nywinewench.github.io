@@ -10,9 +10,9 @@ title: Résumé
 ##### November 2017–Present
 
 * Manage education programs for the Willamette Valley Wineries Association (WVWA) including the education components of Oregon Pinot Camp; Willamette: The Pinot Noir Auction; Oregon Wine Month; and other events
-* Present educational seminars on Willamette Valley wines and create and edit educational materials for the trade, media and consumers
+* Present educational seminars on Willamette Valley wines and create and edit educational materials for the trade, media, and consumers
 * Manage website content; write, edit, and curate content for the WVWA website and its associated sites
-* Manage WVWA communications to the public, media, trade and membership
+* Manage WVWA communications to the public, media, trade, and membership
 
 ### Harvest Crew Member, [Alexana Winery](https://www.alexanawinery.com/)
 
