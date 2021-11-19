@@ -7,7 +7,9 @@ title: Résumé
 
 ### Communications and Education Manager, [Willamette Valley Wineries Association](http://willamettewines.com/)
 
-##### November 2017–Present
+##### Current role: July 2021–Present
+##### Marketing and Communications Coordinator: May 2018–July 2021
+##### Marketing and Content Coordinator: November 2017–May 2018
 
 * Manage education programs for the Willamette Valley Wineries Association (WVWA) including the education components of Oregon Pinot Camp; Willamette: The Pinot Noir Auction; Oregon Wine Month; and other events
 * Present educational seminars on Willamette Valley wines and create and edit educational materials for the trade, media, and consumers
