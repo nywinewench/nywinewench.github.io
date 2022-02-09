@@ -104,13 +104,15 @@ title: Résumé
 
 ### Level 3 Award in Wines and Spirits, Wine & Spirit Education Trust (WSET)
 
-##### Napa Valley Wine Academy, January 2015
+##### Napa Valley Wine Academy, completed January 2015
 
 ### Diploma in Wines and Spirits, Wine & Spirit Education Trust (WSET)
 
 ##### Grape Experience, completed April 2019
 
-### Master of Wine student, September 2020–present
+### Master of Wine student
+
+##### The Institute of Masters of Wine, in progress
 
 #### Skills
 
