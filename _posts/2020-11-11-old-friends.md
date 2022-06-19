@@ -8,7 +8,7 @@ category: Wine
 tags:
   - master of wine
   - South Africa
-  - de trafford 
+  -  de Trafford
   - malgas
   - field blend
   - wine education
