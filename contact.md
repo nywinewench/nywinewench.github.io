@@ -3,8 +3,8 @@ layout: large_column_only
 title: Contact Julia Burke
 ---
 
-I am available for freelance writing projects; see my [selected writings](/writing.html)
-for a range of examples I've enjoyed. I also do wine classes for groups, businesses, and events.
+I am available for freelance and contract projects as of July 2022. See my [selected writings](/writing.html)
+for examples of past projects I've enjoyed, or contact me for a customized sample set based on your needs. I am also available for educational events and classes, editing, and the creation of resources and teaching tools. 
 
-* **Twitter and Instagram**: [@viciousvinifera](https://twitter.com/viciousvinifera) 
-* **Email**: <script type='text/javascript' src='/javascripts/email.js'></script>
+* **Instagram**: [@viciousvinifera](https://www.instagram.com/viciousvinifera/) 
+* **Email**: <SCRIPT LANGUAGE="JavaScript">user = ‘juliamacfarlandburke’;site = ‘gmail.com’;document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</SCRIPT>
