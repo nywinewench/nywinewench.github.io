@@ -18,7 +18,7 @@ tags:
 tweet: “Remembering a 2010 chat with grower Don Demaison.”
 
 ---
-While considering marginal-climate winemaking this weekend as I study for the ever-more-largely-looming Master of Wine Stage One Assessment, I remembered [a chat I had with Niagara Escarpment grower Don Demaison](https://lennthompson.typepad.com/lenndevours/2010/01/perseverance-pays-off-for-niagara-grower.html) years ago in which he described his dramatic transition from growing hybrid grapes to vinifera. 
+While considering marginal-climate winemaking this weekend as I study for the ever-more-largely-looming Master of Wine Stage One Assessment, I remembered [a chat I had with Niagara Escarpment grower Don DeMaison](https://lennthompson.typepad.com/lenndevours/2010/01/perseverance-pays-off-for-niagara-grower.html) years ago in which he described his dramatic transition from growing hybrid grapes to vinifera. 
 
 ![dondm](/photos/dondm.jpg "Don")
 
