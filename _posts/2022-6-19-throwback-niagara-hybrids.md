@@ -1,5 +1,5 @@
 ---
-title: “Throwbacks: Hybrids to Vinifera in Niagara”
+title: “Throwback to Niagara, Hybrids and Sauvignon Blanc”
 
 layout: entry
 
@@ -7,6 +7,7 @@ category: Writing
 
 tags:
   - master of wine
+  - throwbacks
   - Niagara Escarpment
   - Niagara
   - Sauvignon Blanc
