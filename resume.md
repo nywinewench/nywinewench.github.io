@@ -6,7 +6,6 @@ title: Résumé
 #### Work Experience
 
 ### Communications and Education Manager, [Willamette Valley Wineries Association](http://willamettewines.com/)
-
 ##### July 2021–July 2022
 
 * Managed education programs for the Willamette Valley Wineries Association (WVWA) including the education components of Oregon Pinot Camp; Willamette: The Pinot Noir Auction; Oregon Wine Month; and other events
