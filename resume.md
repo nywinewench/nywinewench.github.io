@@ -5,6 +5,15 @@ title: Résumé
 
 #### Work Experience
 
+### Freelance Writer, [Multiple Publications](/writing.html)
+
+##### October 2002–November 2017, July 2022–present
+* Current contributor to Sommsation, Willamette Valley Wines, and a new project to be announced this fall! 
+* Contributed to numerous additional publications focusing on wine, beer, food, politics, and other topics
+* Freelance writer and research consultant for Vivino, 2016–2017
+* First place award from the North American Mature Publishers Association for my 2012 _Forever Young_ article _Love over 50: Changing Attitudes, New Joys_
+* Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html) and [_The Handbook of Porters & Stouts: The Ultimate, Complete and Definitive Guide (Cider Mill Press, 2014)_](http://www.simonandschuster.com/books/The-Handbook-of-Porters-Stouts/Cider-Mill-Press/9781604334777)
+
 ### Communications and Education Manager, [Willamette Valley Wineries Association](http://willamettewines.com/)
 ##### July 2021–July 2022
 * Managed education programs for the Willamette Valley Wineries Association (WVWA) including the education components of Oregon Pinot Camp; Willamette: The Pinot Noir Auction; Oregon Wine Month; and other events
@@ -54,15 +63,6 @@ title: Résumé
 * Wrote, proofed, managed, published, and promoted daily online content
 * Assigned, wrote, edited, and sourced art for monthly magazine content
 * Supported public relations and development departments using email marketing, social media, and site user management
-
-### Freelance Writer, [Multiple Publications](/writing.html)
-
-##### October 2002–November 2017 (available for current projects on a case-by-case basis)
-
-* Freelance writer and research consultant for Vivino, 2016–2017
-* First place award from the North American Mature Publishers Association for my 2012 _Forever Young_ article _Love over 50: Changing Attitudes, New Joys_
-* Contributing author to the travel guidebook [_South Africa, Lesotho & Swaziland (Modern Overland, 2011)_](http://www.modernoverland.com/store/index.php/south-africa-lesotho-swaziland.html) and [_The Handbook of Porters & Stouts: The Ultimate, Complete and Definitive Guide (Cider Mill Press, 2014)_](http://www.simonandschuster.com/books/The-Handbook-of-Porters-Stouts/Cider-Mill-Press/9781604334777)
-* Contributor to numerous additional publications focusing on wine, beer, food, politics, and other topics
 
 ### Assistant/Associate Editor, _Buffalo Spree Magazine_ and _Forever Young Magazine_
 
@@ -120,4 +120,4 @@ title: Résumé
 * Experience in web publishing using standards-compliant markup including HTML5 and Markdown
 * Extensive experience copywriting for a wide variety of audiences
 * Wine-specific skills include sales, staff training, customer service and education, vineyard sampling and picking, sanitation, lab analysis, fermentation monitoring, and other vineyard and cellar tasks
-* Language backgrounds: Russian (B1-B2; current), Mandarin and French (once-proficient but rusty; able to regain functional proficiency quickly as needed)
+* Languages: Russian (B1-B2; current focus), French (A2-B1), Mandarin (Previously B2, currently A2), Spanish (A2)
