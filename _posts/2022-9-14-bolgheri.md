@@ -39,9 +39,9 @@ It’s hot in Bolgheri, but the proximity to the ocean brings cool daytime breez
 
 On that note, I asked Alessandro if the increasing effects of climate change are more easy for young regions like Bolgheri to handle, because they've essentially grown up with these conditions. He nodded. "The body [of the wine] is out there in the ground," he said, gesturing toward the vineyard — meaning the potential for big, ripe wines is now coming reliably from the growing conditions of the vintage. "We are responsible for the elegance."
 
-![alessandrogroup](/photos/alessandrogroup.jpg "Meeting Alessandro Bonaguidi")
-
 The Chiappini wines are delicious and a great value, with several I loved under €30. (They are also certified Organic, and their estate olive oil is exceptional.) One highlight for me was the Vermentino, which spends up to 48 hours on its skins to take advantage of their beautifully herbal aromatic potential. Tasting the Vermentino out of tank and then the 2021 bottled version was awesome: the tank sample already showed defined, precise mint and thyme notes and a beautifully round, full body. Lees contact gives it added texture, and after maturation in stainless steel, it’s got meat on the bones, a touch of minerality and those pretty fresh herb aromatics. It’s one of the better expressions of Vermentino I’ve ever had. 
+
+![alessandrogroup](/photos/alessandrogroup.jpg "Meeting Alessandro Bonaguidi")
 
 I could already taste the compressed layers of intense concentration in the 2019 Guado de’ Gemoli, their grand vin, made up of 70% Cabernet Sauvignon with Merlot and Cabernet Franc in the balance. But it’s very young and a gorgeous gush of fruit on the finish is the most it unfurled for me. I want to drink it in about ten years. Their entry-level blend, Ferruggini, was quite a contrast. It’s got 50% Sangiovese, 30% Cabernet Sauvignon and 20% Syrah, the combination resulting in a particularly woodsy, piney wine with potpourri and a lively beam of acid. Much less plush than the Merlot-based entry-level Bordeaux blends I’ve tasted, this 2021 wine matured in stainless steel was accessible in a different way: light on its feet and food-friendly. 
 
