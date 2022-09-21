@@ -3,7 +3,7 @@ title: "Bolgheri"
 
 layout: entry
 
-category: Writing
+category: Wine
 
 tags:
   - Tuscany
