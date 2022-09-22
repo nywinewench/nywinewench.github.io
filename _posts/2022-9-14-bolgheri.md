@@ -43,8 +43,6 @@ The Chiappini wines are delicious and a great value, with several I loved under 
 
 I could already taste the compressed layers of intense concentration in the 2019 Guado de’ Gemoli, their grand vin, made up of 70% Cabernet Sauvignon with Merlot and Cabernet Franc in the balance. But it’s very young and a gorgeous gush of fruit on the finish is the most it unfurled for me. I want to drink it in about ten years. Their entry-level blend, Ferruggini, was quite a contrast. It’s got 50% Sangiovese, 30% Cabernet Sauvignon and 20% Syrah, the combination resulting in a particularly woodsy, piney wine with potpourri and a lively beam of acid. Much less plush than the Merlot-based entry-level Bordeaux blends I’ve tasted, this 2021 wine matured in stainless steel was accessible in a different way: light on its feet and food-friendly. 
 
-![alessandrogroup](/photos/alessandrogroup.jpg "Meeting Alessandro Bonaguidi")
-
 After this delightful visit we had lunch in Bolgheri. I will remember my burrata with fresh white truffles and mortadella, pig-cheek and porcini tagliatelle, and glass of Sopaio Cabernet Franc as a very strong contender for a "last meal" should I ever have occasion to need one. 
 
 ![bolgherilunch](/photos/bolgherilunch.jpg "Lunch in Bolgheri")
