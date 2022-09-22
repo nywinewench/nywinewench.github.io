@@ -20,6 +20,9 @@ tweet: "My first trip to iconic Bolgheri."
 Thanks once again to M and his work, I had the opportunity to once again visit Florence — and this time, take a weekend trip to the Tuscan coast for a quick visit to Bolgheri. I have found Super Tuscans fascinating for about as long as I've known they exist ("[ever since I knew they were real,](https://www.youtube.com/watch?v=1VbZE6YhjKk)" I suppose), and have wanted to do this trip for over a decade. In addition to breaking down in tears at the first sight of the [coast at sunset](https://www.instagram.com/p/CicXk2cNZLx/) I had several _is this real life?_ moments over the course of our brief stay. 
 
 ![chiappini](/photos/chiappini.jpg "Olive trees and vines at Chiappini")
+![alessandrocf](/photos/alessandrocf.jpg "Winemaker Alessandro Bonaguidi")
+![bolgherilunch](/photos/bolgherilunch.jpg "Lunch in Bolgheri")
+![marchesatowines](/photos/marchesatowines.jpg "Marchesato wines")
 
 (I also couldn't resist captioning every single photo on social media with ["I'm here at my home in Tuscany."](https://www.jamessuckling.com/videos/how-my-100-point-scale-for-rating-wine-works/) I will never not find this funny and I am happy with my audience of the six or seven others in my life who agree.)
 
@@ -33,8 +36,6 @@ Our first visit was to [Chiappini](http://www.giovannichiappini.it/en/home.html)
 
 Our lovely host Reina shared the estate’s history with us and provided a tour of the facilities, then mentioned that winemaker Alessandro Bonaguidi was around to answer any questions I might have. I was certainly not expecting to get to meet any winemakers given the timing of the visit (September 10), but this is an unusual year in Bolgheri: Chiappini’s harvest started two weeks ahead of schedule. We managed to catch Alessandro between white and rosé harvest and bringing in the Cabernet Franc, and he invited me to taste Cab Franc grapes from two adjacent rows. I understood then one of the big challenges of Bolgheri winemaking: wildly disparate ripening schedules even within the same variety and block due to sun exposure and other variances, necessitating attentive canopy management and extra sorting in the vineyard. 
 
-![alessandrocf](/photos/alessandrocf.jpg "Winemaker Alessandro Bonaguidi")
-
 It’s hot in Bolgheri, but the proximity to the ocean brings cool daytime breezes and mercifully cool evenings. They get some rain in the fall, which is needed, but it can sometimes necessitate pushing back harvest a few days to allow grapes to dry out. With four great vintages back-to-back from 2018 to 2021 and 2019 looking like a classic year, I was told Bolgheri winemakers are hopeful for another home run in 2022. I asked about building wines for long-term aging, a key attribute in this region. Alessandro considers the most important factor in ageworthiness to be acidity, but he added that in Bolgheri vintage variation plays a noticeable role, so finding a new balance each year is  critical.
 
 On that note, I asked Alessandro if the increasing effects of climate change are more easy for young regions like Bolgheri to handle, because they've essentially grown up with these conditions. He nodded. "The body [of the wine] is out there in the ground," he said, gesturing toward the vineyard — meaning the potential for big, ripe wines is now coming reliably from the growing conditions of the vintage. "We are responsible for the elegance."
@@ -45,11 +46,7 @@ I could already taste the compressed layers of intense concentration in the 2019
 
 After this delightful visit we had lunch in Bolgheri. I will remember my burrata with fresh white truffles and mortadella, pig-cheek and porcini tagliatelle, and glass of Sopaio Cabernet Franc as a very strong contender for a "last meal" should I ever have occasion to need one. 
 
-![bolgherilunch](/photos/bolgherilunch.jpg "Lunch in Bolgheri")
-
 Our next visit, to Terre de Marchesato, came with many contrasts. 15 days ahead of schedule, they’d already harvested even their Petit Verdot, though there were a couple of amazingly sweet grape clusters still left on the vine for us to taste. The harvest equipment was clean and shining in the sun and the barrel cellar was quiet. So the majority of the visit was focused on tasting through four of their premium wines, accompanied by bread and house-made olive oil and a slow-motion video of what I can best describe as [harvest ASMR](https://twitter.com/viciousvinifera/status/1569637523306995714?s=20&t=y2r07sva79NIsjODnnTh-g). 
-
-![marchesatowines](/photos/marchesatowines.jpg "Marchesato wines")
 
 Here, single-varietal bottlings are the name of the game. The focus is on the expression of the great Bordeaux varieties by their unique attributes, and we tasted their 2019s: Cabernet Sauvignon, Cabernet Franc, Merlot and Petit Verdot. I was  impressed with all four. 2019 is clearly an amazing vintage, and the quality of these wines and their clear varietal characteristics really showed purity of fruit. It’s no surprise I loved the Franchesato, their Cabernet Franc; it had amazing complexity and concentration and I could have sipped it all day. M and I both loved the Petit Verdot, with its mint-leaf pyrazine and straight-laced checkerboard tannins. I haven’t had a single-varietal Petit Verdot I liked this much since South Africa. 
 
