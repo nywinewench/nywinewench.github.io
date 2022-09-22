@@ -19,8 +19,8 @@ and this blog was born. I chronicled my wine adventures as well as observations 
 South Africa’s extraordinarily rich culture; once again, I found myself
 deeply in love.
 
-Here in the US, I am constantly seeking great South African wine, and I keep an eye on the South African wine industry; you’ll find [ample discussion of both](/blog) in my blog archive. These days I am a wine educator currently based in Oregon, where I'm lucky enough to work in the Willamette Valley wine industry. In 2020 I [embarked on the Master of Wine study program](http://stellenbauchery.com/blog/10-01-2020/you-are-an-mw-student.html).
+Here in the US, I am constantly seeking great South African wine, and I keep an eye on the South African wine industry; you’ll find [ample discussion of both](/blog) in my blog archive. These days I am a wine educator currently based in Newark, where I'm lucky enough to be combining my first love of freelance writing with wine, the love of my life. In 2020 I [embarked on the Master of Wine study program](http://stellenbauchery.com/blog/10-01-2020/you-are-an-mw-student.html).
 
-Examples of my work, recent appearances, observations from life as a wine professional and educator, and a bit more of my history can all be found here.
+Current adventures, examples of my work, recent appearances, observations from life as a wine professional and educator, and a bit more of my history can all be found here.
 
 # Cheers!
