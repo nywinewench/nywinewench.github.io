@@ -17,7 +17,7 @@ tags:
 tweet: "My first trip to iconic Bolgheri."
 
 ---
-Thanks once again to M and his work, I had the opportunity to once again visit Florence — and this time, take a weekend trip to the Tuscan coast for a quick visit to Bolgheri. I have found Super Tuscans fascinating for about as long as I've known they exist ("[ever since I knew they were real,](https://www.youtube.com/watch?v=1VbZE6YhjKk)" I suppose), and have wanted to do this trip for over a decade. In addition to breaking down in tears at the first sight of the [coast at sunset](https://www.instagram.com/p/CicXk2cNZLx/) I had several _is this real life?_ moments over the course of our brief stay. 
+Thanks once again to M and his work, I had the opportunity to return to Florence — and this time, take a weekend trip to the Tuscan coast for a quick visit to Bolgheri. I have found Super Tuscans fascinating for about as long as I've known they exist ("[ever since I knew they were real,](https://www.youtube.com/watch?v=1VbZE6YhjKk)" I suppose), and have wanted to do this trip for over a decade. In addition to breaking down in tears at the first sight of the [coast at sunset](https://www.instagram.com/p/CicXk2cNZLx/) I had several _is this real life?_ moments over the course of our brief stay. 
 
 ![chiappini](/photos/chiappini.jpg "Olive trees and vines at Chiappini")
 ![alessandrocf](/photos/alessandrocf.jpg "Winemaker Alessandro Bonaguidi")
