@@ -110,7 +110,7 @@ title: Résumé
 
 ### Master of Wine student
 
-##### The Institute of Masters of Wine, in progress
+##### The Institute of Masters of Wine, in progress 
 
 #### Skills
 
